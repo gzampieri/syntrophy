@@ -1,0 +1,43 @@
+NGS ID	ID	name
+L91	I1	Inoculum
+L92	I2	Inoculum
+L93	I3	Inoculum
+L94	A1-s1	Acetate
+L95	A2-s1	Acetate
+L96	A3-s1	Acetate
+L97	B1-s1	H2+CO2
+L98	B2-s1	H2+CO2
+L99	B3-s1	H2+CO2
+M01	C1-s1	Mixed
+M02	C2-s1	Mixed
+M03	C3-s1	Mixed
+M04	A1-s2	Acetate
+M05	A2-s2	Acetate
+M06	A3-s2	Acetate
+M07	B1-s2	H2+CO2
+M08	B2-s2	H2+CO2
+M09	B3-s2	H2+CO2
+M10	C1-s2	Mixed
+M11	C2-s2	Mixed
+M12	C3-s2	Mixed
+M13	A1-s3	Acetate
+M14	A2-s3	Acetate
+M15	A3-s3	Acetate
+M16	B1-s3	H2+CO2
+M17	B2-s3	H2+CO2
+M18	B3-s3	H2+CO2
+M19	C1-s3	Mixed
+M20	C2-s3	Mixed
+M21	C3-s3	Mixed
+M22	AA1	Amino acids
+M23	AA2	Amino acids
+M24	AA3	Amino acids
+M25	BESAA1	BES+amino acids
+M26	BESAA2	BES+amino acids
+M27	BESAA3	BES+amino acids
+M28	FOR1	Formate
+M29	FOR2	Formate
+M30	FOR3	Formate
+M31	BES1	BES
+M32	BES2	BES
+M33	BES3	BES

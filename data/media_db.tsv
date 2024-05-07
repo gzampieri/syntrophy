@@ -1,0 +1,82 @@
+medium	description	met	name	maxFlux
+BA[acetate+CO2]	Basic anaerobic medium (acetate and CO2)	cpd00001	H2O	1000
+BA[acetate+CO2]	Basic anaerobic medium (acetate and CO2)	cpd00013	NH3	100
+BA[acetate+CO2]	Basic anaerobic medium (acetate and CO2)	cpd00099	Cl-	100
+BA[acetate+CO2]	Basic anaerobic medium (acetate and CO2)	cpd00971	Na+	100
+BA[acetate+CO2]	Basic anaerobic medium (acetate and CO2)	cpd00254	Mg	100
+BA[acetate+CO2]	Basic anaerobic medium (acetate and CO2)	cpd00063	Ca2+	100
+BA[acetate+CO2]	Basic anaerobic medium (acetate and CO2)	cpd00205	K+	100
+BA[acetate+CO2]	Basic anaerobic medium (acetate and CO2)	cpd00009	Phosphate	100
+BA[acetate+CO2]	Basic anaerobic medium (acetate and CO2)	cpd10515	Fe2+	100
+BA[acetate+CO2]	Basic anaerobic medium (acetate and CO2)	cpd00034	Zn2+	100
+BA[acetate+CO2]	Basic anaerobic medium (acetate and CO2)	cpd00058	Cu2+	100
+BA[acetate+CO2]	Basic anaerobic medium (acetate and CO2)	cpd00030	Mn2+	100
+BA[acetate+CO2]	Basic anaerobic medium (acetate and CO2)	cpd11574	Molybdate	100
+BA[acetate+CO2]	Basic anaerobic medium (acetate and CO2)	cpd00149	Co2+	100
+BA[acetate+CO2]	Basic anaerobic medium (acetate and CO2)	cpd00244	Ni2+	100
+BA[acetate+CO2]	Basic anaerobic medium (acetate and CO2)	cpd00104	Biotin	1
+BA[acetate+CO2]	Basic anaerobic medium (acetate and CO2)	cpd00393	Folate	1
+BA[acetate+CO2]	Basic anaerobic medium (acetate and CO2)	cpd00263	Pyridoxin	1
+BA[acetate+CO2]	Basic anaerobic medium (acetate and CO2)	cpd00220	Riboflavin	1
+BA[acetate+CO2]	Basic anaerobic medium (acetate and CO2)	cpd00305	Thiamine	1
+BA[acetate+CO2]	Basic anaerobic medium (acetate and CO2)	cpd00218	Niacin	1
+BA[acetate+CO2]	Basic anaerobic medium (acetate and CO2)	cpd00443	4-Aminobenzoate	1
+BA[acetate+CO2]	Basic anaerobic medium (acetate and CO2)	cpd00644	Pantothenate	1
+BA[acetate+CO2]	Basic anaerobic medium (acetate and CO2)	cpd00048	Sulfate	100
+BA[acetate+CO2]	Basic anaerobic medium (acetate and CO2)	cpd00011	CO2	50
+BA[acetate+CO2]	Basic anaerobic medium (acetate and CO2)	cpd11640	H2	100
+BA[acetate+CO2]	Basic anaerobic medium (acetate and CO2)	cpd00029	Acetate	50
+BA[acetate+CO2]	Basic anaerobic medium (acetate and CO2)	cpd00067	H+	0.1
+BA[acetate+CO2]	Basic anaerobic medium (acetate and CO2)	cpd10516	Fe3+	0.01
+BA[acetate+CO2]	Basic anaerobic medium (acetate and CO2)	cpd00528	N2	0.01
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00001	H2O	1000
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00013	NH3	100
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00099	Cl-	100
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00971	Na+	100
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00254	Mg	100
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00063	Ca2+	100
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00205	K+	100
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00009	Phosphate	100
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd10515	Fe2+	100
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00034	Zn2+	100
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00058	Cu2+	100
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00030	Mn2+	100
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd11574	Molybdate	100
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00149	Co2+	100
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00244	Ni2+	100
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00104	Biotin	10
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00393	Folate	10
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00263	Pyridoxin	10
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00220	Riboflavin	10
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00305	Thiamine	10
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00218	Niacin	10
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00443	4-Aminobenzoate	10
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00644	Pantothenate	10
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00048	Sulfate	100
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00011	CO2	50
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd11640	H2	100
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00029	Acetate	50
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00067	H+	10
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00035	L-Alanine	0.1
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00051	L-Arginine	0.1
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00132	L-Asparagine	0.1
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00041	L-Aspartate	0.1
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00084	L-Cysteine	0.1
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00023	L-Glutamate	0.1
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00053	L-Glutamine	0.1
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00033	L-Glycine	0.1
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00119	L-Histidine	0.1
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00322	L-Isoleucine	0.1
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00107	L-Leucine	0.1
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00039	L-Lysine	0.1
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00060	L-Methionine	0.1
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00066	L-Phenylalanine	0.1
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00129	L-Proline	0.1
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00054	L-Serine	0.1
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00161	L-Threonine	0.1
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00065	L-Tryptophan	0.1
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00069	L-Tyrosine	0.1
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00156	L-Valine	0.1
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00281	GABA	0.1
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd10516	Fe3+	0.01
+BA[acetate+CO2+AA]	Basic anaerobic medium with AA	cpd00528	N2	0.01
